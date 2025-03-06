@@ -3,4 +3,10 @@ body {
     text-align: center;
     background-color: rgb(28, 31, 30);
     color: white;
+    
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
 }

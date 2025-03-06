@@ -10,3 +10,9 @@ img {
     width: 300px;
     border-radius: 10px;
 }
+
+ol {
+    text-align: left;
+    margin: 0 auto;
+    width: 200px;
+}
